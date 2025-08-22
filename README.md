@@ -3,7 +3,7 @@
 This is my personal website hosted on GitHub Pages.  
 I made it using HTML, CSS, and a little bit of JavaScript.
 
-🔗 **Live Site:** https://pongtournament.github.io  
+🔗 **Live Site:** [(https://username.github.io/my-website) ](https://username.github.io/my-website) 
 
 ## Features
 - Simple design
